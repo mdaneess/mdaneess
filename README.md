@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdaneess
 - 👀 I’m interested in new technologies and developments.
-- 🌱 I’m currently learning fullstack Development @Acciojobs
-- 💞️ I’m looking to collaborate as a software developer. 
+- 🌱 I’m currently learning new Technologies like web Development,Java..
+- 💞️ I’m looking to collaborate as a software Engineer. 
 - 📫 How to reach me on email: mohd.anees00@gmail.com 
 
 <!---
